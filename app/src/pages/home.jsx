@@ -22,9 +22,9 @@ const Home = () => {
 							allow="autoplay; fullscreen" 
 							allowfullscreen>
     				</iframe>
-            <div className="ml-8 absolute inset-0 flex flex-col justify-center text-white">
-              <h1 className="text-4xl md:text-6xl font-bold mb-4">Welcome to Transtar Academy</h1>
-              <p className="text-xl md:text-2xl mb-8">Empowering minds, shaping futures</p>
+            <div className="ml-8 mt-8 md:mt-24 lg:mt-40 inset-0 flex flex-col justify-center text-white">
+              <h1 className="text-2xl md:text-6xl font-bold">Welcome to Transtar Academy</h1>
+              <p className="text-xl md:text-2xl mb-4">Empowering minds, shaping futures</p>
 							<div>
               	<Button size="lg" className="bg-primary text-primary-foreground p-8">Apply Now</Button>
 							</div>
